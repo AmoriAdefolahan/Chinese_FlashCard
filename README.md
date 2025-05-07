@@ -50,4 +50,4 @@ python main.py
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-[CMagnac](https://github.com/CMagnac)
+Adefolahan Amori 
